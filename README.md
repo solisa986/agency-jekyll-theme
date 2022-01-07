@@ -3,9 +3,11 @@ Agency Jekyll theme
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82fe5ce3-4f1c-4c82-b33f-3de653bafbf9/deploy-status)](https://app.netlify.com/sites/allegheny-esports/deploys)
+
 # How to use
 
-###Portfolio 
+###Portfolio
 
 Portfolio projects are in '/_posts'
 

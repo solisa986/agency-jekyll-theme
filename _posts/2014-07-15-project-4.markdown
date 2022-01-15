@@ -1,15 +1,12 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: League of Legends
+subtitle: Team B
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2022-01-11
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Explain the purpose of League game. Brief description of the different roles, competitions, and work needed for this team. List of the 2021-2022 League of Legends Team B Members. Short bios for all of the members and maybe a picture if they want. 
 
 ---

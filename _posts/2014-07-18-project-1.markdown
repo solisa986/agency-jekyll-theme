@@ -1,12 +1,12 @@
 ---
-title: Overwatch
-subtitle: Team A
+title: N/a
+subtitle: n/a
 layout: default
 modal-id: 1
 date: 2022-01-14
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-description: Explain the purpose of the Overwatch game. Brief description of the different roles, competitions, and work needed for this team. List of the 2021-2022 Overwatch Team A Members. Short bios for all of the members and maybe a picture if they want. 
+description: n/a
 
 ---

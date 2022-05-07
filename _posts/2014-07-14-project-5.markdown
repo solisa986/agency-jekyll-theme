@@ -1,12 +1,12 @@
 ---
-title: Rocket League
-subtitle: Team A
+title: N/a
+subtitle: n/a
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-description: Explain the purpose of Rocket League game. Brief description of the different roles, competitions, and work needed for this team. List of the 2021-2022 Rocket League Team A Members. Short bios for all of the members and maybe a picture if they want. 
+description: n/a
 
 ---

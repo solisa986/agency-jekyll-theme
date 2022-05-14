@@ -4,7 +4,7 @@ subtitle: examples of past work
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: gel/gel_example_1.jpeg, gel/gel_example_2.jpeg, gel/gel_example_3.jpeg, gel/gel_example_4.jpeg
+img: gel/gel_example_1.jpeg
 thumbnail: gel/gel-thumbnail.png
 alt: image-alt
 

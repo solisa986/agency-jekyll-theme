@@ -4,15 +4,13 @@ subtitle: examples of past work
 layout: default
 modal-id: 6
 date: 2014-07-15
+img: dreams.png
+img: escape.png
+img: golden.png
+img: treehouse.png
 thumbnail: roundicons-thumbnail.png
+alt: image-alt
 
 ---
 
-![gel nails](img/portfolio/dreams.png){:class="img-responsive"}
-![gel nails](img/portfolio/escape.png){:class="img-responsive"}
-![gel nails](img/portfolio/golden.png){:class="img-responsive"}
-![gel nails](img/portfolio/treehouse.png){:class="img-responsive"}
-<br>
-
-<br>
-make sure to book your appointment!
+make sure to book your appointment :)

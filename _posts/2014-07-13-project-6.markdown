@@ -4,11 +4,13 @@ subtitle: examples of past work
 layout: default
 modal-id: 6
 date: 2014-07-15
-img:
+img: gel/gel_example_1.jpeg, gel/gel_example_2.jpeg, gel/gel_example_3.jpeg, gel/gel_example_4.jpeg
 thumbnail: gel/gel-thumbnail.png
 alt: image-alt
 
 ---
+
+## quicklinks
 
 <img src="/img/portfolio/gel/gel_example_1.jpeg" class="img-responsive img-centered" alt="text">
 <img src="/img/portfolio/gel/gel_example_2.jpeg" class="img-responsive img-centered" alt="text">

@@ -5,14 +5,13 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
 
 ---
 
-![gel nails](/img/portfolio/dreams.png){:class="img-responsive"}
-![gel nails](/img/portfolio/escape.png){:class="img-responsive"}
-![gel nails](/img/portfolio/golden.png){:class="img-responsive"}
-![gel nails](/img/portfolio/treehouse.png){:class="img-responsive"}
+![gel nails](img/portfolio/dreams.png){:class="img-responsive"}
+![gel nails](img/portfolio/escape.png){:class="img-responsive"}
+![gel nails](img/portfolio/golden.png){:class="img-responsive"}
+![gel nails](img/portfolio/treehouse.png){:class="img-responsive"}
 <br>
 
 <br>

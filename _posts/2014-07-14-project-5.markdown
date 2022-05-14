@@ -4,20 +4,14 @@ subtitle: examples of past work
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: acrylic/acrylic-thumbnail.png
 alt: image-alt
 
 ---
 
-<br>
-<img src="/img/portfolio/dreams.png" alt="dip nails" height="300" width="300" align="center">
-<br>
+<img src="img/portfolio/acrylic/acrylic_example_1.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/acrylic/acrylic_example_2.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/acrylic/acrylic_example_3.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/acrylic/acrylic_example_4.jpeg" class="img-responsive img-centered" alt="text">
 
-<br>
-<img src="/img/portfolio/escape.png" alt="dip nails" height="300" width="300" align="center">
-<br>
-
-<br>
-<img src="/img/portfolio/golden.png" alt="dip nails" height="300" width="300" align="center">
-<br>
+make sure to book your appointment :)

@@ -5,13 +5,14 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img:
-  dreams.png
-  escape.png
-  golden.png
-  treehouse.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: gel/gel-thumbnail.png
 alt: image-alt
 
 ---
+
+<img src="img/portfolio/gel/gel_example_1.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/gel/gel_example_2.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/gel/gel_example_3.jpeg" class="img-responsive img-centered" alt="text">
+<img src="img/portfolio/gel/gel_example_4.jpeg" class="img-responsive img-centered" alt="text">
 
 make sure to book your appointment :)

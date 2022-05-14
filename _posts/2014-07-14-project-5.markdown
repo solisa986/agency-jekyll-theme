@@ -9,9 +9,9 @@ alt: image-alt
 
 ---
 
-<img src="img/portfolio/acrylic/acrylic_example_1.jpeg" class="img-responsive img-centered" alt="text">
-<img src="img/portfolio/acrylic/acrylic_example_2.jpeg" class="img-responsive img-centered" alt="text">
-<img src="img/portfolio/acrylic/acrylic_example_3.jpeg" class="img-responsive img-centered" alt="text">
-<img src="img/portfolio/acrylic/acrylic_example_4.jpeg" class="img-responsive img-centered" alt="text">
+<img src="/img/portfolio/acrylic/acrylic_example_1.jpeg" class="img-responsive img-centered" alt="text">
+<img src="/img/portfolio/acrylic/acrylic_example_2.jpeg" class="img-responsive img-centered" alt="text">
+<img src="/img/portfolio/acrylic/acrylic_example_3.jpeg" class="img-responsive img-centered" alt="text">
+<img src="/img/portfolio/acrylic/acrylic_example_4.jpeg" class="img-responsive img-centered" alt="text">
 
 make sure to book your appointment :)

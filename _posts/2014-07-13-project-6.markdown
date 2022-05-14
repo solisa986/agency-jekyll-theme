@@ -1,18 +1,15 @@
 ---
 title: Korean Gel Nails
-subtitle: $25+
+subtitle: examples of past work
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
-description: past work
+alt: image-altsss
 
 ---
 
-<p align = "middle">
-  <img src="/img/portfolio/dreams.png" width="100" />
-  <img src="/img/portfolio/escape.png" width="100" />
-  <img src="/img/portfolio/golden.png" width="100" />
-</p>
+![Image 1](/img/portfolio/dreams.png width="100")
+![Image 2](/img/portfolio/escape.png width="100")
+![Image 3](/img/portfolio/golden.png width="100")

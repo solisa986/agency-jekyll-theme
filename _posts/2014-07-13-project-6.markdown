@@ -4,10 +4,11 @@ subtitle: examples of past work
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: dreams.png
-img: escape.png
-img: golden.png
-img: treehouse.png
+img:
+  dreams.png
+  escape.png
+  golden.png
+  treehouse.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 

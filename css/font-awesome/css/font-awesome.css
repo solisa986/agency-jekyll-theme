@@ -662,6 +662,9 @@
 .fa-hand-o-left:before {
   content: "\f0a5";
 }
+.fa-hand-heart:before {
+  content: "\f4bc";
+}
 .fa-hand-o-up:before {
   content: "\f0a6";
 }

@@ -1,5 +1,5 @@
 ---
-title: Gel Nails
+title: Korean Gel Nails
 subtitle: $25+
 layout: default
 modal-id: 6
@@ -7,71 +7,12 @@ date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-description: description of nails/work
+description: past work
 
 ---
 
-<h1 align = "center">Description</h1>
-<p align = "center">here</p>
-
-<h3 align = "center">services</h3>
-<hr class = "solid">
-<br>
-<img src="assets/img/portfolio/4.jpg" alt="example" height = "300" width = "300" align = "left">
-<br>
-
-<p align = "center"><b>description</b><i>Tank</i></p>
-<ul>
-<li align = "center"><i>List</i> Item</li>
-</ul>
-<br>
-
-<hr class="dotted">
-
-<br>
-<img src="assets/img/portfolio/4.jpg" alt="example" height = "300" width = "300" align = "left">
-<br>
-
-<p align = "center"><b>description</b><i>Tank</i></p>
-<ul>
-<li align = "center"><i>List</i> Item</li>
-</ul>
-<br>
-
-<hr class="dotted">
-
-<br>
-<img src="assets/img/portfolio/4.jpg" alt="example" height = "300" width = "300" align = "left">
-<br>
-
-<p align = "center"><b>description</b><i>Tank</i></p>
-<ul>
-<li align = "center"><i>List</i> Item</li>
-</ul>
-<br>
-
-<hr class="dotted">
-
-<br>
-<img src="assets/img/portfolio/4.jpg" alt="example" height = "300" width = "300" align = "left">
-<br>
-
-<p align = "center"><b>description</b><i>Tank</i></p>
-<ul>
-<li align = "center"><i>List</i> Item</li>
-</ul>
-<br>
-
-<hr class="dotted">
-
-<br>
-<img src="assets/img/portfolio/4.jpg" alt="example" height = "300" width = "300" align = "left">
-<br>
-
-<p align = "center"><b>description</b><i>Tank</i></p>
-<ul>
-<li align = "center"><i>List</i> Item</li>
-</ul>
-<br>
-
-<hr class="dotted">
+<p align = "middle">
+  <img src="/img/portfolio/dreams.png" width="100" />
+  <img src="/img/portfolio/escape.png" width="100" />
+  <img src="/img/portfolio/golden.png" width="100" />
+</p>

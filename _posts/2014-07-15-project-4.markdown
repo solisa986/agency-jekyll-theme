@@ -1,12 +1,18 @@
 ---
-title: N/a
-subtitle: n/a
+title: Dip Nails
+subtitle: $40+
 layout: default
 modal-id: 4
 date: 2022-01-11
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-description: n/a
+description: past work
 
 ---
+
+<p align = "middle">
+  <img src="/img/portfolio/dreams.png" width="100" />
+  <img src="/img/portfolio/escape.png" width="100" />
+  <img src="/img/portfolio/golden.png" width="100" />
+</p>

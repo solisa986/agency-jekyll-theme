@@ -17,12 +17,12 @@
                             </div>
                         </div>
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="text">
-                        {% for item in post.images-array %}
-                        <div class="col-sm-4">
-                          <img class="img-responsive" src="img/portfolio/{{ item.image }}" alt="{{ item.alt }}">
-                        </div>
-                        {% endfor %}
                     </a>
+                    {% for item in post.images-array %}
+                    <div class="col-sm-4">
+                      <img class="img-responsive" src="img/portfolio/{{ item.image }}" alt="{{ item.alt }}">
+                    </div>
+                    {% endfor %}
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>

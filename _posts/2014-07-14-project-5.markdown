@@ -5,13 +5,32 @@ layout: default
 modal-id: 5
 date: 2014-07-15
 thumbnail: acrylic/acrylic-thumbnail.png
-alt: image-alt
+description: make sure to book your appointment :)
+images-array:
+ - image: acrylic/acrylic_example_1.jpeg
+ - image: acrylic/acrylic_example_2.jpeg
+ - image: acrylic/acrylic_example_3.jpeg
+ - image: acrylic/acrylic_example_4.jpeg
+ - image: acrylic/acrylic_example_5.jpeg
+ - image: acrylic/acrylic_example_6.jpeg
+ - image: acrylic/acrylic_example_7.jpeg
+ - image: acrylic/acrylic_example_8.jpeg
+ - image: acrylic/acrylic_example_9.jpeg
+ - image: acrylic/acrylic_example_10.jpeg
+ - image: acrylic/acrylic_example_11.jpeg
+ - image: acrylic/acrylic_example_12.jpeg
+ - image: acrylic/acrylic_example_13.jpeg
+ - image: acrylic/acrylic_example_14.jpeg
+ - image: acrylic/acrylic_example_15.jpeg
+ - image: acrylic/acrylic_example_16.jpeg
+ - image: acrylic/acrylic_example_17.jpeg
+ - image: acrylic/acrylic_example_18.jpeg
+ - image: acrylic/acrylic_example_19.jpeg
+ - image: acrylic/acrylic_example_20.jpeg
+ - image: acrylic/acrylic_example_21.jpeg
+ - image: acrylic/acrylic_example_22.jpeg
+ - image: acrylic/acrylic_example_23.jpeg
+ - image: acrylic/acrylic_example_24.jpeg
+ - image: acrylic/acrylic_example_25.jpeg
 
 ---
-
-<img src="/img/portfolio/acrylic/acrylic_example_1.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/acrylic/acrylic_example_2.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/acrylic/acrylic_example_3.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/acrylic/acrylic_example_4.jpeg" class="img-responsive img-centered" alt="text">
-
-make sure to book your appointment :)

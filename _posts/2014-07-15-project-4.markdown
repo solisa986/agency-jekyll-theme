@@ -5,14 +5,12 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 thumbnail: dip/dip-thumbnail.png
-alt: image-alt
+description: make sure to book your appointment :)
+images-array:
+ - image: dip/dip_example_1.jpeg
+ - image: dip/dip_example_2.jpeg
+ - image: dip/dip_example_3.jpeg
+ - image: dip/dip_example_4.jpeg
+ - image: dip/dip_example_5.jpeg
 
 ---
-
-<img src="/img/portfolio/dip/dip_example_1.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/dip/dip_example_2.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/dip/dip_example_3.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/dip/dip_example_4.jpeg" class="img-responsive img-centered" alt="text">
-<img src="/img/portfolio/dip/dip_example_5.jpeg" class="img-responsive img-centered" alt="text">
-
-make sure to book your appointment :)

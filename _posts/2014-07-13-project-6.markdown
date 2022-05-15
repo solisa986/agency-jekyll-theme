@@ -8,11 +8,8 @@ thumbnail: gel/gel-thumbnail.png
 description: make sure to book your appointment :)
 images-array:
  - image: gel/gel_example_1.jpeg
-   alt: text
  - image: gel/gel_example_2.jpeg
-   alt: text
  - image: gel/gel_example_3.jpeg
-   alt: text
  - image: gel/gel_example_4.jpeg
 
 ---

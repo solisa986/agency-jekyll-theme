@@ -11,6 +11,6 @@ images-array:
  - image: gel/gel_example_2.jpeg
  - image: gel/gel_example_3.jpeg
  - image: gel/gel_example_4.jpeg
- - image: gel/blank.jpeg
+ - image: gel/blank.jpg
 
 ---

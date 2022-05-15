@@ -32,5 +32,6 @@ images-array:
  - image: acrylic/acrylic_example_23.jpeg
  - image: acrylic/acrylic_example_24.jpeg
  - image: acrylic/acrylic_example_25.jpeg
+ - image: acrylic/blank.jpg
 
 ---

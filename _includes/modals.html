@@ -17,19 +17,17 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
                             {% for item in post.images-array %}
-                            <div class="col-sm-4">
+                            <div class="col-sm-4" style="break-after:page">
                               <img class="img-responsive" src="img/portfolio/{{ item.image }}" alt="{{ item.alt }}">
                             </div>
                             {% endfor %}
-                            <div>
-                              <br>
-                              <br>
-                              <br>
+                            <div style="break-after:page">
                               <br>
                               <p>{{ post.description }}</p>
+                            </div>
+                            <div style="break-after:page">
                               <br>
                               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                              <br>
                             </div>
                         </div>
                     </div>
